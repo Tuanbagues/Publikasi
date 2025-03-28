@@ -1,1 +1,1 @@
-npm install @uiw/react-codemirror --save
+npm install @uiw/react-codemirror
